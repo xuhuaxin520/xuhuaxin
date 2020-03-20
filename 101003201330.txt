@@ -1,0 +1,27 @@
+display_name=爱人BT
+type=portrait
+cat=episode
+page_number=34
+page1_url=https://3atv111.com/vod/20.html
+page2_url_pre=https://3atv111.com/vod/20
+page2_url_suffix=html
+first_container_select=div.m-movies
+first_items_select=.u-movie
+title_select=href
+title_select_attr=title
+logo_select=img
+logo_select_attr=data-original
+first_url_select=a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=none
+realurl_regex=var vid="(http[^"]+)
+second_flag=no
+second_container_select=.vlink
+second_items_select=a
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=id
+second_url_pre=https://3atv111.com
+second_url_suffix=.html
