@@ -1,4 +1,4 @@
-display_name=爱人1
+display_name=爱人2
 type=portrait
 cat=episode
 page_number=401
@@ -7,10 +7,10 @@ page2_url_pre=http://www.yskk7.com/?m=vod-type-id-19-pg-
 page2_url_suffix=html
 first_container_select=div.m-movies
 first_items_select=.u-movie
-title_select=alt
+title_select=h1
 title_select_attr=none
 logo_select=img
-logo_select_attr=data-original
+logo_select_attr=src
 first_url_select=a
 first_url_select_attr=href
 logo_pre=none
