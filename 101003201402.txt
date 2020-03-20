@@ -1,10 +1,10 @@
-display_name=爱人bt3
+display_name=爱人bt2
 type=portrait
 cat=episode
 page_number=34
 page1_url=https://3atv111.com/vod/20
-page2_url_pre=https://www.imeiju.io/vcat/other/page/
-page2_url_suffix=none
+page2_url_pre=https://3atv111.com/vod/20-
+page2_url_suffix=.html
 first_container_select=div.m-movies
 first_items_select=.u-movie
 title_select=h2
