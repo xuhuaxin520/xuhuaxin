@@ -1,9 +1,9 @@
-display_name=爱人12
+display_name=爱人13
 cat=episode
 page_number=283
 page1_url=https://www.pianku.tv/mv/
-page2_url_pre=https://www.pianku.tv/mv/
-page2_url_suffix=html
+page2_url_pre=https://www.pianku.tv/mv/------
+page2_url_suffix=.html
 first_container_select=div.m-movies
 first_items_select=.u-movie
 title_select=alt
