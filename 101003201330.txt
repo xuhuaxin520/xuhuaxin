@@ -16,12 +16,12 @@ first_url_select_attr=href
 logo_pre=none
 first_url_pre=none
 realurl_regex=var vid="(http[^"]+)
-second_flag=no
-second_container_select=.vlink
-second_items_select=a
+second_flag=none
+second_container_select=none
+second_items_select=none
 second_title_select=none
 second_title_select_attr=none
 second_url_select=none
-second_url_select_attr=id
+second_url_select_attr=none
 second_url_pre=https://3atv111.com
-second_url_suffix=.html
+second_url_suffix=none
