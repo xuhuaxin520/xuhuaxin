@@ -1,4 +1,4 @@
-display_name=爱人bt
+display_name=爱人1
 type=portrait
 cat=episode
 page_number=401
