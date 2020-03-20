@@ -1,4 +1,4 @@
-display_name=爱美剧|其它剧
+display_name=爱人bt
 type=portrait
 cat=av
 page_number=34
