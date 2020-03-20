@@ -1,12 +1,12 @@
-display_name=爱人22
+display_name=爱人11
 cat=episode
-page_number=63
-page1_url=https://www.pianku.tv/tv/
-page2_url_pre=https://www.pianku.tv/tv/------
+page_number=283
+page1_url=https://www.pianku.tv/mv/
+page2_url_pre=https://www.pianku.tv/mv/------
 page2_url_suffix=html
 first_container_select=div.m-movies
 first_items_select=.u-movie
-title_select=h2
+title_select=alt
 title_select_attr=none
 logo_select=img
 logo_select_attr=src
