@@ -1,4 +1,4 @@
-display_name=爱美剧|其它剧
+display_name=爱人bt
 type=portrait
 cat=episode
 page_number=6
